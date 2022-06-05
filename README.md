@@ -188,9 +188,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Shashwat anand- [@shashwat_anand](https://www.linkedin.com/in/shashwat-anand/) - shashwatanand1801@gmail.com
+Shashwat anand- [@hitenvidhani](https://www.linkedin.com/in/hiten-vidhani/) - vidhani.hiten2001@gmail.com
 
-Project Link: [https://github.com/shashwatanand1801/Project-Management](https://github.com/shashwatanand1801/Project-Management)
+Project Link: [https://github.com/hitenvidhani/project-management-system](https://github.com/hitenvidhani/project-management-system)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
