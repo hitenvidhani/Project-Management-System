@@ -188,7 +188,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Shashwat anand- [@hitenvidhani](https://www.linkedin.com/in/hiten-vidhani/) - vidhani.hiten2001@gmail.com
+Hiten Vidhani- [@hitenvidhani](https://www.linkedin.com/in/hiten-vidhani/) - vidhani.hiten2001@gmail.com
 
 Project Link: [https://github.com/hitenvidhani/project-management-system](https://github.com/hitenvidhani/project-management-system)
 
@@ -220,5 +220,5 @@ Project Link: [https://github.com/hitenvidhani/project-management-system](https:
 [license-shield]: https://img.shields.io/github/license/shashwatanand1801/Project-Management.svg?style=for-the-badge
 [license-url]: https://github.com/shashwatanand1801/Project-Management/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/shashwat-anand/
+[linkedin-url]: https://www.linkedin.com/in/hitenvidhani/
 [product-screenshot]: readme_images/landing.png
