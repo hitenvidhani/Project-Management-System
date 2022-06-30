@@ -107,7 +107,7 @@ To get a local copy up and running follow these simple example steps.
 1. Set up a MySql local server (you can use mysql workbench) -- the details of the database can be found below.
 2. Clone the repo
    ```sh
-   git clone https://github.com/shashwatanand1801/Project-Management.git
+   git clone https://github.com/hitenvidhani/project-management-system.git
    ```
 3. Install NPM packages
    ```sh
